@@ -11,10 +11,10 @@ It's really pretty cool.
 
 ## Usage
 
-Pipe another command into tnotify to send a notification when the command is
+Run tnotify after another command to send a notification when the command is
 finished.
 
-    $ bundle install | tnotify
+    $ bundle install; tnotify
 
 
 ## Contributing
