@@ -14,7 +14,7 @@ It's really pretty cool.
 Run tnotify after another command to send a notification when the command is
 finished.
 
-    $ bundle install; tnotify
+    $ your command here; tnotify
 
 ![Example Usage](https://s3.amazonaws.com/f.cl.ly/items/1Z1g0E1k2E1Q2S0l1k0f/output_optimized.gif)
 
