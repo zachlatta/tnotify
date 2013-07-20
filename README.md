@@ -16,8 +16,7 @@ finished.
 
     $ bundle install; tnotify
 
-![Example Usage](https://s3.amazonaws.com/f.cl.ly/items/1Z1g0E1k2E1Q2S0l1k0f/ou
-tput_optimized.gif)
+![Example Usage](https://s3.amazonaws.com/f.cl.ly/items/1Z1g0E1k2E1Q2S0l1k0f/output_optimized.gif)
 
 
 ## Contributing
