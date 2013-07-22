@@ -1,7 +1,7 @@
 # Tnotify
 
 The easiest, most attractive way to fire off notifications from your terminal.
-It's really pretty cool.
+It's really pretty neat.
 
 
 ## Installation
