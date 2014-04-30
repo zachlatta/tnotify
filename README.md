@@ -1,4 +1,4 @@
-# Tnotify
+# Tnotify ![Analytics](https://ga-beacon.appspot.com/UA-34529482-6/tnotify/readme?pixel)
 
 The easiest, most attractive way to fire off notifications from your terminal.
 It's really very neat.
